@@ -2,4 +2,4 @@
 15 puzzle solver for class.
 The depth function does not work.
 
-This code scrambles and then solves a 15 puzzle using queues to store all possible moves and parent boards.
+This code works consistently to scramble and then solve a 15 puzzle using queues to store all possible moves and parent boards, testing all until the board matches the solved board.
